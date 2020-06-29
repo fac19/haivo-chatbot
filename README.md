@@ -1,4 +1,5 @@
 # Haivo Chatbot
+![](https://i.imgur.com/bLKbvVp.png)
 
 ## Authors
 - [Hannah](https://github.com/hannahgooding)
@@ -13,4 +14,3 @@ A chatbot built using Google Dialogflow and Express, the Haivo Chatbot harnesses
 ## Credits
 Built using the following tutorial:  
 [Learn Google Dialogflow fulfillment - Oliver James](https://github.com/oliverjam/learn-dialogflow-fulfillment)
-
