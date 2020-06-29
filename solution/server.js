@@ -28,4 +28,8 @@ app.post("/appointments", (req, res) => {
   res.json({ fulfillmentMessages });
 });
 
+app.get("/mood", (req, res) => {
+  console.log("request body: ", req.body)
+})
+
 module.exports = app;
